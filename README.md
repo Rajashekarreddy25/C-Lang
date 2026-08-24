@@ -88,7 +88,7 @@ Format	        Used In	Meaning
 %*d	scanf	    Suppress first int input (skip storing)
 ```
 🧪 Test Programs
-### test programs
+###  test programs
 // printf field width & precision
 #include <stdio.h>
 int main() {
@@ -316,7 +316,7 @@ int main() {
 }
 
 ```
-#📘 Dynamic Memory Allocation (DMA) in C
+# 📘 Dynamic Memory Allocation (DMA) in C
 
 In C, Dynamic Memory Allocation (DMA) allows you to allocate memory at runtime, instead of fixing the size at compile time.
 The standard library <stdlib.h> provides four main functions:
